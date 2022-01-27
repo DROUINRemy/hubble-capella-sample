@@ -16,4 +16,4 @@ This model is an example, based on public information available, in order to ill
 [Slides of the presentation.](https://www.slideshare.net/Obeo_corp/capella-days-2021-introduction-to-capellaarcadia-and-nasa-systems-engineering-handbook-modeling-overview-with-the-hubble-space-telescope)
 
 ## Model
-[Download the Capella project v1.0](https://github.com/fmadiot/hubble-capella-sample/releases/download/v1.0/HUBBLE.Space.Telescope.CAPELLA.DAYS.2021.zip) (for Capella 5.2)
+[Download the Capella project v1.0](https://github.com/DROUINRemy/hubble-capella-sample/files/7953654/HUBBLE.Space.Telescope.CAPELLA.DAYS.2021.zip) (for Capella 5.2)
