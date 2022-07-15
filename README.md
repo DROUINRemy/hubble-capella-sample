@@ -17,3 +17,6 @@ This model is an example, based on public information available, in order to ill
 
 ## Model
 [Download the Capella project v1.0](https://github.com/DROUINRemy/hubble-capella-sample/files/7953654/HUBBLE.Space.Telescope.CAPELLA.DAYS.2021.zip) (for Capella 5.2)
+
+## Model Preliminary update
+[Download the Capella project v1.1](https://github.com/DROUINRemy/hubble-capella-sample/files/9124391/HUBBLE.Space.Telescope.CAPELLA.DAYS.2021.zip) (for Capella 5.2)
