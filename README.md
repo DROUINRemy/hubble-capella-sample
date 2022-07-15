@@ -8,6 +8,7 @@ It has been created by [Rémy Drouin](https://fr.linkedin.com/in/r%C3%A9my-droui
 The HUBBLE Space Telescope (HST) is a Cassegrain reflector telescope. Orbiting above the earth, HST elaborates a clear view of the universe free from the blurring and absorbing effects of the atmosphere.
 
 This model is an example, based on public information available, in order to illustrate the journey throughout Capella.
+The goal is not to model the entire system as well as all CAPELLA features, but just to introduce few diagrams.
 
 ## Video
 [Presentation recorded during Capella Days 2021.](https://youtu.be/pU5LPXCv9J4)
