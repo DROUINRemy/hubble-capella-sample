@@ -7,7 +7,7 @@ It has been created by [Rémy Drouin](https://fr.linkedin.com/in/r%C3%A9my-droui
 
 The HUBBLE Space Telescope (HST) is a Cassegrain reflector telescope. Orbiting above the earth, HST elaborates a clear view of the universe free from the blurring and absorbing effects of the atmosphere.
 
-OVerview is available on [OBEO Site](https://blog.obeosoft.com/applying-nasa-systems-engineering-handbook-with-capella)
+Overview is available on [OBEO Site](https://blog.obeosoft.com/applying-nasa-systems-engineering-handbook-with-capella)
 
 This model is an example, based on public information available, in order to illustrate the journey throughout Capella.
 
