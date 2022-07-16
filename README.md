@@ -3,11 +3,9 @@ This sample model created with Arcadia and Capella describes the Hubble Space Te
 
 ![SAB Hubble](https://wiki.eclipse.org/images/f/f4/Sab_hubble.jpg)
 
-It has been created by [Rémy Drouin](https://fr.linkedin.com/in/r%C3%A9my-drouin-ba3b1494) and presented at [Capella Days 2021](https://www.eclipse.org/capella/capella_days_2021.html).
+It has been created by [Rémy Drouin](https://fr.linkedin.com/in/r%C3%A9my-drouin-ba3b1494) and presented at [Capella Days 2021](https://www.eclipse.org/capella/capella_days_2021.html) (see overview on [OBEO Blog](https://blog.obeosoft.com/applying-nasa-systems-engineering-handbook-with-capella)
 
 The HUBBLE Space Telescope (HST) is a Cassegrain reflector telescope. Orbiting above the earth, HST elaborates a clear view of the universe free from the blurring and absorbing effects of the atmosphere.
-
-Overview is available on [OBEO Site](https://blog.obeosoft.com/applying-nasa-systems-engineering-handbook-with-capella)
 
 This model is an example, based on public information available, in order to illustrate the journey throughout Capella.
 
