@@ -7,6 +7,8 @@ It has been created by [Rémy Drouin](https://fr.linkedin.com/in/r%C3%A9my-droui
 
 The HUBBLE Space Telescope (HST) is a Cassegrain reflector telescope. Orbiting above the earth, HST elaborates a clear view of the universe free from the blurring and absorbing effects of the atmosphere.
 
+OVerview is available on [OBEO Site](https://blog.obeosoft.com/applying-nasa-systems-engineering-handbook-with-capella)
+
 This model is an example, based on public information available, in order to illustrate the journey throughout Capella.
 
 The goal is not to model the entire system as well as all CAPELLA features, but just to introduce few diagrams.
@@ -17,8 +19,5 @@ The goal is not to model the entire system as well as all CAPELLA features, but 
 ## Presentation
 [Slides of the presentation.](https://www.slideshare.net/Obeo_corp/capella-days-2021-introduction-to-capellaarcadia-and-nasa-systems-engineering-handbook-modeling-overview-with-the-hubble-space-telescope)
 
-## Model
-[Download the Capella project v1.0](https://github.com/DROUINRemy/hubble-capella-sample/files/7953654/HUBBLE.Space.Telescope.CAPELLA.DAYS.2021.zip) (for Capella 5.2)
-
-## Model Preliminary update (Errors fixing)
-[Download the Capella project v1.1](https://github.com/DROUINRemy/hubble-capella-sample/files/9124546/HUBBLE.Space.Telescope.CAPELLA.DAYS.2021.zip) (for Capella 5.2)
+## Model Version 1.1
+[Download the Capella project v1.1](https://github.com/DROUINRemy/hubble-capella-sample/files/9124546/HUBBLE.Space.Telescope.CAPELLA.DAYS.2021.zip) (for Capella 5.2).
