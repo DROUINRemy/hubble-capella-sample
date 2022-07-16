@@ -1,4 +1,4 @@
-# Hubble Capella Sample
+# HUBBLE Space Telescope Capella Sample
 This sample model created with Arcadia and Capella describes the Hubble Space Telescope system.
 
 ![SAB Hubble](https://wiki.eclipse.org/images/f/f4/Sab_hubble.jpg)
