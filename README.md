@@ -18,4 +18,4 @@ The goal is not to model the entire system as well as all CAPELLA features, but 
 [Slides of the presentation.](https://www.slideshare.net/Obeo_corp/capella-days-2021-introduction-to-capellaarcadia-and-nasa-systems-engineering-handbook-modeling-overview-with-the-hubble-space-telescope)
 
 ## Model Version 1.1
-[Download the Capella project v1.1](https://github.com/DROUINRemy/hubble-capella-sample/files/9124546/HUBBLE.Space.Telescope.CAPELLA.DAYS.2021.zip) (for Capella 5.2).
+[Download the Capella project v1.2](https://github.com/DROUINRemy/hubble-capella-sample/files/9174678/HUBBLE.Space.Telescope.CAPELLA.DAYS.2021.zip)
