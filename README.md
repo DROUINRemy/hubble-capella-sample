@@ -26,7 +26,8 @@ The HUBBLE Space Telescope (HST) is a Cassegrain reflector telescope. Orbiting a
 
 
 ## Presentation
-COMING SOON
+[ARCADIA&CAPELLA_HST.pdf](https://github.com/user-attachments/files/17457225/ARCADIA.CAPELLA_HST.pdf)
+
 
 ## Model Version 
 COMING SOON
