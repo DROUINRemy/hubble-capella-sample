@@ -1,5 +1,5 @@
 ## HUBBLE Space Telescope Capella Sample
-This sample model created with Arcadia and Capella describes the Hubble Space Telescope system
+This sample model created with Arcadia and Capella describes the Hubble Space Telescope system.
 It has been created by [Rémy Drouin](https://fr.linkedin.com/in/r%C3%A9my-drouin-ba3b1494) 
 
 
