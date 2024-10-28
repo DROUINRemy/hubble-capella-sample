@@ -7,7 +7,7 @@ It has been created by [Rémy Drouin](https://fr.linkedin.com/in/r%C3%A9my-droui
 
 The HUBBLE Space Telescope (HST) is a Cassegrain reflector telescope. Orbiting above the earth, HST elaborates a clear view of the universe free from the blurring and absorbing effects of the atmosphere. In order to illustrate the journey throughout CAPELLA, the HST will be introduced, as example, based on public information available. 
 
-# The goal is not to model to the entire system as well as not apply all ARCADIA concepts, but just to introduce few diagrams of ARCADIA/CAPELLA
+# The goal is not to model the entire system as well as not apply all ARCADIA concepts, but just to introduce few diagrams of ARCADIA/CAPELLA
 
 
 ## Operational Analysis Overview:
