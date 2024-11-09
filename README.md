@@ -10,16 +10,16 @@ The HUBBLE Space Telescope (HST) is a Cassegrain reflector telescope. Orbiting a
 # The goal is not to model the entire system as well as not apply all ARCADIA concepts, but just to introduce few diagrams of ARCADIA/CAPELLA
 
 
-## Need Perspective: Operational Analysis Overview:
+## Need Perspective -> Operational Analysis Overview:
 ![OAB  Operational Entities](https://github.com/user-attachments/assets/bbfd8111-9f47-4ee6-a910-aca6133ee691)
 
-## Need Perspective: System Analysis Overview:
+## Need Perspective -> System Analysis Overview:
 ![SAB  Structure](https://github.com/user-attachments/assets/771ce580-b5ff-4514-b56f-3d350813dcab)
 
-## Solution Perspective:Logical Architecture Overview:
+## Solution Perspective -> Logical Architecture Overview:
 ![LAB  Structure](https://github.com/user-attachments/assets/e78a1d6d-f5ed-44bf-94e4-868875e41f87)
 
-## Solution Perspective: Physical Architecture Overview:
+## Solution Perspective -> Physical Architecture Overview:
 ![PAB  Structure](https://github.com/user-attachments/assets/741cfd4b-e117-4130-bf96-41c0aa555f27)
 
 ## Presentation
