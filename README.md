@@ -11,19 +11,20 @@ The HUBBLE Space Telescope (HST) is a Cassegrain reflector telescope. Orbiting a
 
 
 ## Operational Analysis Overview:
-![image](https://github.com/user-attachments/assets/35f6a4f0-d743-49d2-b1bb-18247f21a1b3)
+![OAB  Operational Entities](https://github.com/user-attachments/assets/bbfd8111-9f47-4ee6-a910-aca6133ee691)
+
 
 
 ## System Analysis Overview:
-![image](https://github.com/user-attachments/assets/3632d88d-95c9-45f5-aec7-598826693461)
+![SAB  Structure](https://github.com/user-attachments/assets/771ce580-b5ff-4514-b56f-3d350813dcab)
 
 
 ## Logical Architecture Overview:
-![image](https://github.com/user-attachments/assets/d08c51d0-25c1-47e9-89bf-caa874be3fdc)
+![LAB  Structure](https://github.com/user-attachments/assets/e78a1d6d-f5ed-44bf-94e4-868875e41f87)
 
 
 ## Physical Architecture Overview:
-![image](https://github.com/user-attachments/assets/e9159fe0-b7ce-4769-81c4-927e3afe8546)
+![PAB  Structure](https://github.com/user-attachments/assets/741cfd4b-e117-4130-bf96-41c0aa555f27)
 
 
 ## Presentation
